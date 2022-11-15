@@ -14,21 +14,21 @@ In this repository, the processed databases used in our study are available.
 
 Below we have the graphs generated for descriptive analysis of the numerical and categorical clinical features.
 
-![Image](https://github.com/jdmanzur/ml4aml_databases/figures/diagnosis_age_boxplot.png)
+![Image](https://github.com/jdmanzur/ml4aml_databases/tree/main/figures/diagnosis_age_boxplot.png)
 
-![Image](https://github.com/jdmanzur/ml4aml_databases/figures/bone_marrow_boxplot.png)
+![Image](https://github.com/jdmanzur/ml4aml_databases/tree/main/figures/bone_marrow_boxplot.png)
 
-![Image](https://github.com/jdmanzur/ml4aml_databases/figures/mutation_count_boxplot.png)
+![Image](https://github.com/jdmanzur/ml4aml_databases/tree/main/figures/mutation_count_boxplot.png)
 
-![Image](https://github.com/jdmanzur/ml4aml_databases/figures/pb_blast_boxplot.png)
+![Image](https://github.com/jdmanzur/ml4aml_databases/tree/main/figures/pb_blast_boxplot.png)
 
-![Image](https://github.com/jdmanzur/ml4aml_databases/figures/wbc_boxplot.png)
+![Image](https://github.com/jdmanzur/ml4aml_databases/tree/main/figures/wbc_boxplot.png)
 
 
-![Image](https://github.com/jdmanzur/ml4aml_databases/figures/eln_risk_plot.png)
+![Image](https://github.com/jdmanzur/ml4aml_databases/tree/main/figures/eln_risk_plot.png)
 
-![Image](https://github.com/jdmanzur/ml4aml_databases/figures/race_plot.png)
+![Image](https://github.com/jdmanzur/ml4aml_databases/tree/main/figures/race_plot.png)
 
-![Image](https://github.com/jdmanzur/ml4aml_databases/figures/gender_plot.png)
+![Image](https://github.com/jdmanzur/ml4aml_databases/tree/main/figures/gender_plot.png)
 
-![Image](https://github.com/jdmanzur/ml4aml_databases/figures/treatment_intensity_plot.png)
+![Image](https://github.com/jdmanzur/ml4aml_databases/tree/main/figures/treatment_intensity_plot.png)
