@@ -14,7 +14,7 @@ In this repository, the processed databases used in our study are available.
 
 Below we have the graphs generated for descriptive analysis of the numerical and categorical clinical features.
 
-![Image](https://github.com/jdmanzur/ml4aml_databases/tree/main/figures/diagnosis_age_boxplot.png)
+![Image](/ml4aml_databases/tree/main/figures/diagnosis_age_boxplot.png)
 
 ![Image](https://github.com/jdmanzur/ml4aml_databases/tree/main/figures/bone_marrow_boxplot.png)
 
