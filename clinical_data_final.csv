@@ -1,4 +1,4 @@
-Study ID,SAMPLE_ID,Diagnosis Age,Bone Marrow Blast Percentage,Mutation Count,PB Blast Percentage,WBC,Sex,isWhite,Cytogenetic Info,ELN Risk Classification,Overall Survival (Months),Overall Survival Status,Treatment Intensity
+Study ID,SAMPLE_ID,Diagnosis Age,Bone Marrow Blast Percentage,Mutation Count,PB Blast Percentage,WBC,Sex,Race,Cytogenetic Info,ELN Risk Classification,Overall Survival (Months),Overall Survival Status,Treatment Intensity
 1,aml_ohsu_2018_13-00266,77,70.3333333333333,17,47.0,25.3,0,1,AML-MRC,3,4.24,1:DECEASED,Regular
 1,aml_ohsu_2018_13-00424,77,42.0,20,27.0,14.47,0,1,AML-MRC,3,0.76,1:DECEASED,Low intensity
 1,aml_ohsu_2018_14-00141,85,86.0,10,66.3333333333333,66.1666666666667,0,0,Normal Karyotype,2,11.74,1:DECEASED,Low intensity
